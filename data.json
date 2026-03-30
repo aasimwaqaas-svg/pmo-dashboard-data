@@ -1,1 +1,573 @@
-{"status":"test"}
+{
+  "last_updated": "2026-03-30 21:36",
+  "registers": {
+    "Legal Register": {
+      "docs": [
+        {
+          "name": "Trade Licence 2026",
+          "type": "Legal",
+          "category": "Business Licence",
+          "owner": "Ahmed Al-Rashid",
+          "owner_email": "ahmed@company.com",
+          "expiry_date": "2026-04-10",
+          "days_remaining": 11,
+          "status": "Expiring",
+          "renewal_owner": "HR Department",
+          "notes": "Ministry of Commerce renewal pending"
+        },
+        {
+          "name": "ISO 9001:2015 Certification",
+          "type": "Legal",
+          "category": "Quality Standard",
+          "owner": "Sara Mohammed",
+          "owner_email": "sara@company.com",
+          "expiry_date": "2026-03-28",
+          "days_remaining": -2,
+          "status": "Expired",
+          "renewal_owner": "HR Department",
+          "notes": "Audit scheduled for Q2 2026"
+        },
+        {
+          "name": "ISO 14001 Certification",
+          "type": "Legal",
+          "category": "Quality Standard",
+          "owner": "Sara Mohammed",
+          "owner_email": "sara@company.com",
+          "expiry_date": "2026-05-20",
+          "days_remaining": 51,
+          "status": "Valid",
+          "renewal_owner": "HR Department",
+          "notes": "Environmental management system"
+        },
+        {
+          "name": "Employment Law Compliance",
+          "type": "Legal",
+          "category": "Regulatory",
+          "owner": "HR Director",
+          "owner_email": "hr@company.com",
+          "expiry_date": "2026-12-31",
+          "days_remaining": 276,
+          "status": "Valid",
+          "renewal_owner": "HR Department",
+          "notes": "Annual legal review completed"
+        },
+        {
+          "name": "GDPR Data Processing Policy",
+          "type": "Legal",
+          "category": "Data Protection",
+          "owner": "Legal Counsel",
+          "owner_email": "legal@company.com",
+          "expiry_date": "2026-08-15",
+          "days_remaining": 138,
+          "status": "Valid",
+          "renewal_owner": "Legal Dept",
+          "notes": "Review after Saudi PDPL update"
+        },
+        {
+          "name": "Commercial Registration CR",
+          "type": "Legal",
+          "category": "Business Licence",
+          "owner": "CEO Office",
+          "owner_email": "ceo@company.com",
+          "expiry_date": "2026-03-15",
+          "days_remaining": -15,
+          "status": "Expired",
+          "renewal_owner": "CEO Office",
+          "notes": "Renewal in progress with MoCI"
+        },
+        {
+          "name": "Saudization Certificate",
+          "type": "Legal",
+          "category": "Labour",
+          "owner": "HR Director",
+          "owner_email": "hr@company.com",
+          "expiry_date": "2026-06-30",
+          "days_remaining": 92,
+          "status": "Valid",
+          "renewal_owner": "HR Department",
+          "notes": "Nitaqat Platinum band maintained"
+        },
+        {
+          "name": "ZATCA Tax Registration",
+          "type": "Legal",
+          "category": "Tax & Finance",
+          "owner": "CFO",
+          "owner_email": "cfo@company.com",
+          "expiry_date": "2026-12-31",
+          "days_remaining": 276,
+          "status": "Valid",
+          "renewal_owner": "Finance Dept",
+          "notes": "VAT compliance confirmed"
+        },
+        {
+          "name": "Professional Indemnity Ins",
+          "type": "Legal",
+          "category": "Insurance",
+          "owner": "Finance Manager",
+          "owner_email": "finance@company.com",
+          "expiry_date": "2026-04-01",
+          "days_remaining": 2,
+          "status": "Expiring",
+          "renewal_owner": "Finance Dept",
+          "notes": "Policy renewal quote received"
+        },
+        {
+          "name": "General Liability Insurance",
+          "type": "Legal",
+          "category": "Insurance",
+          "owner": "Finance Manager",
+          "owner_email": "finance@company.com",
+          "expiry_date": "2026-09-15",
+          "days_remaining": 169,
+          "status": "Valid",
+          "renewal_owner": "Finance Dept",
+          "notes": "AXA policy active"
+        },
+        {
+          "name": "Vendor Master Agreement",
+          "type": "Legal",
+          "category": "Contract",
+          "owner": "Legal Counsel",
+          "owner_email": "legal@company.com",
+          "expiry_date": "2026-07-01",
+          "days_remaining": 93,
+          "status": "Valid",
+          "renewal_owner": "Legal Dept",
+          "notes": "Standard MSA template v3"
+        },
+        {
+          "name": "NDA Framework Agreement",
+          "type": "Legal",
+          "category": "Contract",
+          "owner": "Legal Counsel",
+          "owner_email": "legal@company.com",
+          "expiry_date": "2027-01-01",
+          "days_remaining": 277,
+          "status": "Valid",
+          "renewal_owner": "Legal Dept",
+          "notes": "Covers all vendor relationships"
+        },
+        {
+          "name": "OSHAD Safety Certification",
+          "type": "Legal",
+          "category": "Health & Safety",
+          "owner": "HSE Manager",
+          "owner_email": "hse@company.com",
+          "expiry_date": "2026-03-31",
+          "days_remaining": 1,
+          "status": "Expiring",
+          "renewal_owner": "HSE Dept",
+          "notes": "Renewal blocked pending audit"
+        },
+        {
+          "name": "Chamber of Commerce Cert",
+          "type": "Legal",
+          "category": "Business Licence",
+          "owner": "CEO Office",
+          "owner_email": "ceo@company.com",
+          "expiry_date": "2026-11-30",
+          "days_remaining": 245,
+          "status": "Valid",
+          "renewal_owner": "CEO Office",
+          "notes": "Riyadh Chamber membership active"
+        },
+        {
+          "name": "Anti-Bribery Policy",
+          "type": "Legal",
+          "category": "Compliance",
+          "owner": "Legal Counsel",
+          "owner_email": "legal@company.com",
+          "expiry_date": "2026-04-12",
+          "days_remaining": 13,
+          "status": "Expiring",
+          "renewal_owner": "Legal Dept",
+          "notes": "Board approval required for renewal"
+        }
+      ],
+      "totals": {
+        "total": 15,
+        "valid": 9,
+        "expiring": 4,
+        "expired": 2,
+        "pending": 0
+      }
+    },
+    "Company Register": {
+      "docs": [
+        {
+          "name": "Corporate Governance Policy",
+          "type": "Company",
+          "category": "Governance",
+          "owner": "CEO Office",
+          "owner_email": "ceo@company.com",
+          "expiry_date": "2026-06-15",
+          "days_remaining": 77,
+          "status": "Valid",
+          "renewal_owner": "CEO Office",
+          "notes": "Board reviewed Jan 2026"
+        },
+        {
+          "name": "Data Protection Policy",
+          "type": "Company",
+          "category": "IT & Security",
+          "owner": "IT Manager",
+          "owner_email": "it@company.com",
+          "expiry_date": "2026-03-15",
+          "days_remaining": -15,
+          "status": "Expired",
+          "renewal_owner": "IT Department",
+          "notes": "Update required for PDPL compliance"
+        },
+        {
+          "name": "IT Security Policy",
+          "type": "Company",
+          "category": "IT & Security",
+          "owner": "IT Manager",
+          "owner_email": "it@company.com",
+          "expiry_date": "2026-04-05",
+          "days_remaining": 6,
+          "status": "Expiring",
+          "renewal_owner": "IT Department",
+          "notes": "Penetration test report attached"
+        },
+        {
+          "name": "Business Continuity Plan",
+          "type": "Company",
+          "category": "Risk",
+          "owner": "Risk Manager",
+          "owner_email": "risk@company.com",
+          "expiry_date": "2026-08-30",
+          "days_remaining": 153,
+          "status": "Valid",
+          "renewal_owner": "Risk Dept",
+          "notes": "Last tested March 2026"
+        },
+        {
+          "name": "Procurement Policy",
+          "type": "Company",
+          "category": "Operations",
+          "owner": "Procurement Head",
+          "owner_email": "proc@company.com",
+          "expiry_date": "2026-10-01",
+          "days_remaining": 185,
+          "status": "Valid",
+          "renewal_owner": "Procurement",
+          "notes": "Updated for Vision 2030 localisation"
+        },
+        {
+          "name": "Finance & Budget Policy",
+          "type": "Company",
+          "category": "Finance",
+          "owner": "CFO",
+          "owner_email": "cfo@company.com",
+          "expiry_date": "2026-12-31",
+          "days_remaining": 276,
+          "status": "Valid",
+          "renewal_owner": "Finance Dept",
+          "notes": "FY2026 board-approved"
+        },
+        {
+          "name": "HR Recruitment Policy",
+          "type": "Company",
+          "category": "HR",
+          "owner": "HR Director",
+          "owner_email": "hr@company.com",
+          "expiry_date": "2026-07-15",
+          "days_remaining": 107,
+          "status": "Valid",
+          "renewal_owner": "HR Department",
+          "notes": "Saudization targets embedded"
+        },
+        {
+          "name": "Travel & Expense Policy",
+          "type": "Company",
+          "category": "Finance",
+          "owner": "Finance Manager",
+          "owner_email": "finance@company.com",
+          "expiry_date": "2026-05-01",
+          "days_remaining": 32,
+          "status": "Valid",
+          "renewal_owner": "Finance Dept",
+          "notes": "New per diem rates effective Q2"
+        },
+        {
+          "name": "Whistleblower Policy",
+          "type": "Company",
+          "category": "Compliance",
+          "owner": "Legal Counsel",
+          "owner_email": "legal@company.com",
+          "expiry_date": "2026-04-08",
+          "days_remaining": 9,
+          "status": "Expiring",
+          "renewal_owner": "Legal Dept",
+          "notes": "Anonymous reporting channel active"
+        },
+        {
+          "name": "Social Media Policy",
+          "type": "Company",
+          "category": "Communications",
+          "owner": "Comms Manager",
+          "owner_email": "comms@company.com",
+          "expiry_date": "2026-09-01",
+          "days_remaining": 155,
+          "status": "Valid",
+          "renewal_owner": "Comms Dept",
+          "notes": "Updated for TikTok guidelines"
+        },
+        {
+          "name": "Environmental Policy",
+          "type": "Company",
+          "category": "Sustainability",
+          "owner": "HSE Manager",
+          "owner_email": "hse@company.com",
+          "expiry_date": "2026-11-30",
+          "days_remaining": 245,
+          "status": "Valid",
+          "renewal_owner": "HSE Dept",
+          "notes": "Aligned to Saudi Green Initiative"
+        },
+        {
+          "name": "Supplier Contract — Auto",
+          "type": "Company",
+          "category": "Procurement",
+          "owner": "TBC",
+          "owner_email": "TBC",
+          "expiry_date": "TBD",
+          "days_remaining": "—",
+          "status": "Pending",
+          "renewal_owner": "Pending",
+          "notes": "Auto-detected by folder watcher"
+        },
+        {
+          "name": "Quality Management Manual",
+          "type": "Company",
+          "category": "Quality",
+          "owner": "Quality Manager",
+          "owner_email": "quality@company.com",
+          "expiry_date": "2026-06-30",
+          "days_remaining": 92,
+          "status": "Valid",
+          "renewal_owner": "Quality Dept",
+          "notes": "ISO 9001 aligned v4.2"
+        },
+        {
+          "name": "Risk Register Policy",
+          "type": "Company",
+          "category": "Risk",
+          "owner": "Risk Manager",
+          "owner_email": "risk@company.com",
+          "expiry_date": "2026-03-20",
+          "days_remaining": -10,
+          "status": "Expired",
+          "renewal_owner": "Risk Dept",
+          "notes": "Quarterly review overdue"
+        },
+        {
+          "name": "Code of Conduct",
+          "type": "Company",
+          "category": "Compliance",
+          "owner": "CEO Office",
+          "owner_email": "ceo@company.com",
+          "expiry_date": "2026-12-31",
+          "days_remaining": 276,
+          "status": "Valid",
+          "renewal_owner": "CEO Office",
+          "notes": "All staff signed off Feb 2026"
+        }
+      ],
+      "totals": {
+        "total": 15,
+        "valid": 10,
+        "expiring": 2,
+        "expired": 2,
+        "pending": 1
+      }
+    },
+    "Training Register": {
+      "docs": [
+        {
+          "name": "Fire Safety Training — All Staff",
+          "type": "Training",
+          "category": "Health & Safety",
+          "owner": "HSE Officer",
+          "owner_email": "hse@company.com",
+          "expiry_date": "2026-08-01",
+          "days_remaining": 124,
+          "status": "Valid",
+          "renewal_owner": "HSE Lead",
+          "notes": "45"
+        },
+        {
+          "name": "First Aid Certification",
+          "type": "Training",
+          "category": "Health & Safety",
+          "owner": "HSE Officer",
+          "owner_email": "hse@company.com",
+          "expiry_date": "2026-08-01",
+          "days_remaining": 124,
+          "status": "Valid",
+          "renewal_owner": "HSE Lead",
+          "notes": "12"
+        },
+        {
+          "name": "Safety Training Manual v2",
+          "type": "Training",
+          "category": "Health & Safety",
+          "owner": "HSE Officer",
+          "owner_email": "hse@company.com",
+          "expiry_date": "2026-05-01",
+          "days_remaining": 32,
+          "status": "Valid",
+          "renewal_owner": "HSE Lead",
+          "notes": "32"
+        },
+        {
+          "name": "Fire Safety Procedure",
+          "type": "Training",
+          "category": "Health & Safety",
+          "owner": "HSE Officer",
+          "owner_email": "hse@company.com",
+          "expiry_date": "2026-03-20",
+          "days_remaining": -10,
+          "status": "Expired",
+          "renewal_owner": "HSE Lead",
+          "notes": "50"
+        },
+        {
+          "name": "GDPR / Data Privacy Awareness",
+          "type": "Training",
+          "category": "IT & Compliance",
+          "owner": "IT Manager",
+          "owner_email": "it@company.com",
+          "expiry_date": "2026-10-15",
+          "days_remaining": 199,
+          "status": "Valid",
+          "renewal_owner": "IT Department",
+          "notes": "38"
+        },
+        {
+          "name": "Anti-Money Laundering (AML)",
+          "type": "Training",
+          "category": "Compliance",
+          "owner": "Legal Counsel",
+          "owner_email": "legal@company.com",
+          "expiry_date": "2026-07-01",
+          "days_remaining": 93,
+          "status": "Valid",
+          "renewal_owner": "Legal Dept",
+          "notes": "22"
+        },
+        {
+          "name": "Leadership Development Program",
+          "type": "Training",
+          "category": "HR & Leadership",
+          "owner": "HR Director",
+          "owner_email": "hr@company.com",
+          "expiry_date": "2026-09-30",
+          "days_remaining": 184,
+          "status": "Valid",
+          "renewal_owner": "HR Department",
+          "notes": "15"
+        },
+        {
+          "name": "Staff Handbook v3 Briefing",
+          "type": "Training",
+          "category": "HR",
+          "owner": "HR Director",
+          "owner_email": "hr@company.com",
+          "expiry_date": "2026-04-14",
+          "days_remaining": 15,
+          "status": "Expiring",
+          "renewal_owner": "HR Department",
+          "notes": "80"
+        },
+        {
+          "name": "Project Management Fundamentals",
+          "type": "Training",
+          "category": "PMO",
+          "owner": "PMO Head",
+          "owner_email": "pmo@company.com",
+          "expiry_date": "2026-11-30",
+          "days_remaining": 245,
+          "status": "Valid",
+          "renewal_owner": "PMO",
+          "notes": "18"
+        },
+        {
+          "name": "Cyber Security Awareness",
+          "type": "Training",
+          "category": "IT & Security",
+          "owner": "IT Manager",
+          "owner_email": "it@company.com",
+          "expiry_date": "2026-06-30",
+          "days_remaining": 92,
+          "status": "Valid",
+          "renewal_owner": "IT Department",
+          "notes": "75"
+        },
+        {
+          "name": "Procurement Ethics Training",
+          "type": "Training",
+          "category": "Compliance",
+          "owner": "Procurement Head",
+          "owner_email": "proc@company.com",
+          "expiry_date": "2026-08-15",
+          "days_remaining": 138,
+          "status": "Valid",
+          "renewal_owner": "Procurement",
+          "notes": "20"
+        },
+        {
+          "name": "Auto-Detected: Induction Pack",
+          "type": "Training",
+          "category": "HR",
+          "owner": "TBC",
+          "owner_email": "TBC",
+          "expiry_date": "TBD",
+          "days_remaining": "—",
+          "status": "Pending",
+          "renewal_owner": "Pending",
+          "notes": ""
+        },
+        {
+          "name": "Emergency Response Procedures",
+          "type": "Training",
+          "category": "Health & Safety",
+          "owner": "HSE Officer",
+          "owner_email": "hse@company.com",
+          "expiry_date": "2026-12-31",
+          "days_remaining": 276,
+          "status": "Valid",
+          "renewal_owner": "HSE Lead",
+          "notes": "50"
+        },
+        {
+          "name": "Performance Management Workshop",
+          "type": "Training",
+          "category": "HR & Leadership",
+          "owner": "HR Director",
+          "owner_email": "hr@company.com",
+          "expiry_date": "2026-05-31",
+          "days_remaining": 62,
+          "status": "Valid",
+          "renewal_owner": "HR Department",
+          "notes": "25"
+        }
+      ],
+      "totals": {
+        "total": 14,
+        "valid": 11,
+        "expiring": 1,
+        "expired": 1,
+        "pending": 1
+      }
+    }
+  },
+  "summary": {
+    "total": 44,
+    "valid": 30,
+    "expiring": 7,
+    "expired": 5,
+    "pending": 2
+  }
+}
