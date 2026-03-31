@@ -1,44 +1,8 @@
 {
-  "last_updated": "2026-03-31 08:46",
+  "last_updated": "2026-03-31 09:41",
   "registers": {
     "Legal Register": {
       "docs": [
-        {
-          "name": "Trade Licence 2026",
-          "type": "Legal",
-          "category": "Business Licence",
-          "owner": "Ahmed Al-Rashid",
-          "owner_email": "ahmed@company.com",
-          "expiry_date": "2026-04-10",
-          "days_remaining": 10,
-          "status": "Expiring",
-          "renewal_owner": "HR Department",
-          "notes": "Ministry of Commerce renewal pending"
-        },
-        {
-          "name": "ISO 9001:2015 Certification",
-          "type": "Legal",
-          "category": "Quality Standard",
-          "owner": "Sara Mohammed",
-          "owner_email": "sara@company.com",
-          "expiry_date": "2026-03-28",
-          "days_remaining": -3,
-          "status": "Expired",
-          "renewal_owner": "HR Department",
-          "notes": "Audit scheduled for Q2 2026"
-        },
-        {
-          "name": "ISO 14001 Certification",
-          "type": "Legal",
-          "category": "Quality Standard",
-          "owner": "Sara Mohammed",
-          "owner_email": "sara@company.com",
-          "expiry_date": "2026-05-20",
-          "days_remaining": 50,
-          "status": "Valid",
-          "renewal_owner": "HR Department",
-          "notes": "Environmental management system"
-        },
         {
           "name": "Employment Law Compliance",
           "type": "Legal",
@@ -185,51 +149,15 @@
         }
       ],
       "totals": {
-        "total": 15,
-        "valid": 9,
-        "expiring": 4,
-        "expired": 2,
+        "total": 12,
+        "valid": 8,
+        "expiring": 3,
+        "expired": 1,
         "pending": 0
       }
     },
     "Company Register": {
       "docs": [
-        {
-          "name": "Corporate Governance Policy",
-          "type": "Company",
-          "category": "Governance",
-          "owner": "CEO Office",
-          "owner_email": "ceo@company.com",
-          "expiry_date": "2026-06-15",
-          "days_remaining": 76,
-          "status": "Valid",
-          "renewal_owner": "CEO Office",
-          "notes": "Board reviewed Jan 2026"
-        },
-        {
-          "name": "Data Protection Policy",
-          "type": "Company",
-          "category": "IT & Security",
-          "owner": "IT Manager",
-          "owner_email": "it@company.com",
-          "expiry_date": "2026-03-15",
-          "days_remaining": -16,
-          "status": "Expired",
-          "renewal_owner": "IT Department",
-          "notes": "Update required for PDPL compliance"
-        },
-        {
-          "name": "IT Security Policy",
-          "type": "Company",
-          "category": "IT & Security",
-          "owner": "IT Manager",
-          "owner_email": "it@company.com",
-          "expiry_date": "2026-04-05",
-          "days_remaining": 5,
-          "status": "Expiring",
-          "renewal_owner": "IT Department",
-          "notes": "Penetration test report attached"
-        },
         {
           "name": "Business Continuity Plan",
           "type": "Company",
@@ -376,51 +304,15 @@
         }
       ],
       "totals": {
-        "total": 15,
-        "valid": 10,
-        "expiring": 2,
-        "expired": 2,
+        "total": 12,
+        "valid": 9,
+        "expiring": 1,
+        "expired": 1,
         "pending": 1
       }
     },
     "Training Register": {
       "docs": [
-        {
-          "name": "Fire Safety Training — All Staff",
-          "type": "Training",
-          "category": "Health & Safety",
-          "owner": "HSE Officer",
-          "owner_email": "hse@company.com",
-          "expiry_date": "2026-08-01",
-          "days_remaining": 123,
-          "status": "Valid",
-          "renewal_owner": "HSE Lead",
-          "notes": "45"
-        },
-        {
-          "name": "First Aid Certification",
-          "type": "Training",
-          "category": "Health & Safety",
-          "owner": "HSE Officer",
-          "owner_email": "hse@company.com",
-          "expiry_date": "2026-08-01",
-          "days_remaining": 123,
-          "status": "Valid",
-          "renewal_owner": "HSE Lead",
-          "notes": "12"
-        },
-        {
-          "name": "Safety Training Manual v2",
-          "type": "Training",
-          "category": "Health & Safety",
-          "owner": "HSE Officer",
-          "owner_email": "hse@company.com",
-          "expiry_date": "2026-05-01",
-          "days_remaining": 31,
-          "status": "Valid",
-          "renewal_owner": "HSE Lead",
-          "notes": "32"
-        },
         {
           "name": "Fire Safety Procedure",
           "type": "Training",
@@ -555,8 +447,8 @@
         }
       ],
       "totals": {
-        "total": 14,
-        "valid": 11,
+        "total": 11,
+        "valid": 8,
         "expiring": 1,
         "expired": 1,
         "pending": 1
@@ -564,10 +456,10 @@
     }
   },
   "summary": {
-    "total": 44,
-    "valid": 30,
-    "expiring": 7,
-    "expired": 5,
+    "total": 35,
+    "valid": 25,
+    "expiring": 5,
+    "expired": 3,
     "pending": 2
   }
 }
