@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-30 22:03",
+  "last_updated": "2026-03-31 08:46",
   "registers": {
     "Legal Register": {
       "docs": [
@@ -10,7 +10,7 @@
           "owner": "Ahmed Al-Rashid",
           "owner_email": "ahmed@company.com",
           "expiry_date": "2026-04-10",
-          "days_remaining": 11,
+          "days_remaining": 10,
           "status": "Expiring",
           "renewal_owner": "HR Department",
           "notes": "Ministry of Commerce renewal pending"
@@ -22,7 +22,7 @@
           "owner": "Sara Mohammed",
           "owner_email": "sara@company.com",
           "expiry_date": "2026-03-28",
-          "days_remaining": -2,
+          "days_remaining": -3,
           "status": "Expired",
           "renewal_owner": "HR Department",
           "notes": "Audit scheduled for Q2 2026"
@@ -34,7 +34,7 @@
           "owner": "Sara Mohammed",
           "owner_email": "sara@company.com",
           "expiry_date": "2026-05-20",
-          "days_remaining": 51,
+          "days_remaining": 50,
           "status": "Valid",
           "renewal_owner": "HR Department",
           "notes": "Environmental management system"
@@ -46,7 +46,7 @@
           "owner": "HR Director",
           "owner_email": "hr@company.com",
           "expiry_date": "2026-12-31",
-          "days_remaining": 276,
+          "days_remaining": 275,
           "status": "Valid",
           "renewal_owner": "HR Department",
           "notes": "Annual legal review completed"
@@ -58,7 +58,7 @@
           "owner": "Legal Counsel",
           "owner_email": "legal@company.com",
           "expiry_date": "2026-08-15",
-          "days_remaining": 138,
+          "days_remaining": 137,
           "status": "Valid",
           "renewal_owner": "Legal Dept",
           "notes": "Review after Saudi PDPL update"
@@ -70,7 +70,7 @@
           "owner": "CEO Office",
           "owner_email": "ceo@company.com",
           "expiry_date": "2026-03-15",
-          "days_remaining": -15,
+          "days_remaining": -16,
           "status": "Expired",
           "renewal_owner": "CEO Office",
           "notes": "Renewal in progress with MoCI"
@@ -82,7 +82,7 @@
           "owner": "HR Director",
           "owner_email": "hr@company.com",
           "expiry_date": "2026-06-30",
-          "days_remaining": 92,
+          "days_remaining": 91,
           "status": "Valid",
           "renewal_owner": "HR Department",
           "notes": "Nitaqat Platinum band maintained"
@@ -94,7 +94,7 @@
           "owner": "CFO",
           "owner_email": "cfo@company.com",
           "expiry_date": "2026-12-31",
-          "days_remaining": 276,
+          "days_remaining": 275,
           "status": "Valid",
           "renewal_owner": "Finance Dept",
           "notes": "VAT compliance confirmed"
@@ -106,7 +106,7 @@
           "owner": "Finance Manager",
           "owner_email": "finance@company.com",
           "expiry_date": "2026-04-01",
-          "days_remaining": 2,
+          "days_remaining": 1,
           "status": "Expiring",
           "renewal_owner": "Finance Dept",
           "notes": "Policy renewal quote received"
@@ -118,7 +118,7 @@
           "owner": "Finance Manager",
           "owner_email": "finance@company.com",
           "expiry_date": "2026-09-15",
-          "days_remaining": 169,
+          "days_remaining": 168,
           "status": "Valid",
           "renewal_owner": "Finance Dept",
           "notes": "AXA policy active"
@@ -130,7 +130,7 @@
           "owner": "Legal Counsel",
           "owner_email": "legal@company.com",
           "expiry_date": "2026-07-01",
-          "days_remaining": 93,
+          "days_remaining": 92,
           "status": "Valid",
           "renewal_owner": "Legal Dept",
           "notes": "Standard MSA template v3"
@@ -142,7 +142,7 @@
           "owner": "Legal Counsel",
           "owner_email": "legal@company.com",
           "expiry_date": "2027-01-01",
-          "days_remaining": 277,
+          "days_remaining": 276,
           "status": "Valid",
           "renewal_owner": "Legal Dept",
           "notes": "Covers all vendor relationships"
@@ -154,7 +154,7 @@
           "owner": "HSE Manager",
           "owner_email": "hse@company.com",
           "expiry_date": "2026-03-31",
-          "days_remaining": 1,
+          "days_remaining": 0,
           "status": "Expiring",
           "renewal_owner": "HSE Dept",
           "notes": "Renewal blocked pending audit"
@@ -166,7 +166,7 @@
           "owner": "CEO Office",
           "owner_email": "ceo@company.com",
           "expiry_date": "2026-11-30",
-          "days_remaining": 245,
+          "days_remaining": 244,
           "status": "Valid",
           "renewal_owner": "CEO Office",
           "notes": "Riyadh Chamber membership active"
@@ -178,7 +178,7 @@
           "owner": "Legal Counsel",
           "owner_email": "legal@company.com",
           "expiry_date": "2026-04-12",
-          "days_remaining": 13,
+          "days_remaining": 12,
           "status": "Expiring",
           "renewal_owner": "Legal Dept",
           "notes": "Board approval required for renewal"
@@ -201,7 +201,7 @@
           "owner": "CEO Office",
           "owner_email": "ceo@company.com",
           "expiry_date": "2026-06-15",
-          "days_remaining": 77,
+          "days_remaining": 76,
           "status": "Valid",
           "renewal_owner": "CEO Office",
           "notes": "Board reviewed Jan 2026"
@@ -213,7 +213,7 @@
           "owner": "IT Manager",
           "owner_email": "it@company.com",
           "expiry_date": "2026-03-15",
-          "days_remaining": -15,
+          "days_remaining": -16,
           "status": "Expired",
           "renewal_owner": "IT Department",
           "notes": "Update required for PDPL compliance"
@@ -225,7 +225,7 @@
           "owner": "IT Manager",
           "owner_email": "it@company.com",
           "expiry_date": "2026-04-05",
-          "days_remaining": 6,
+          "days_remaining": 5,
           "status": "Expiring",
           "renewal_owner": "IT Department",
           "notes": "Penetration test report attached"
@@ -237,7 +237,7 @@
           "owner": "Risk Manager",
           "owner_email": "risk@company.com",
           "expiry_date": "2026-08-30",
-          "days_remaining": 153,
+          "days_remaining": 152,
           "status": "Valid",
           "renewal_owner": "Risk Dept",
           "notes": "Last tested March 2026"
@@ -249,7 +249,7 @@
           "owner": "Procurement Head",
           "owner_email": "proc@company.com",
           "expiry_date": "2026-10-01",
-          "days_remaining": 185,
+          "days_remaining": 184,
           "status": "Valid",
           "renewal_owner": "Procurement",
           "notes": "Updated for Vision 2030 localisation"
@@ -261,7 +261,7 @@
           "owner": "CFO",
           "owner_email": "cfo@company.com",
           "expiry_date": "2026-12-31",
-          "days_remaining": 276,
+          "days_remaining": 275,
           "status": "Valid",
           "renewal_owner": "Finance Dept",
           "notes": "FY2026 board-approved"
@@ -273,7 +273,7 @@
           "owner": "HR Director",
           "owner_email": "hr@company.com",
           "expiry_date": "2026-07-15",
-          "days_remaining": 107,
+          "days_remaining": 106,
           "status": "Valid",
           "renewal_owner": "HR Department",
           "notes": "Saudization targets embedded"
@@ -285,7 +285,7 @@
           "owner": "Finance Manager",
           "owner_email": "finance@company.com",
           "expiry_date": "2026-05-01",
-          "days_remaining": 32,
+          "days_remaining": 31,
           "status": "Valid",
           "renewal_owner": "Finance Dept",
           "notes": "New per diem rates effective Q2"
@@ -297,7 +297,7 @@
           "owner": "Legal Counsel",
           "owner_email": "legal@company.com",
           "expiry_date": "2026-04-08",
-          "days_remaining": 9,
+          "days_remaining": 8,
           "status": "Expiring",
           "renewal_owner": "Legal Dept",
           "notes": "Anonymous reporting channel active"
@@ -309,7 +309,7 @@
           "owner": "Comms Manager",
           "owner_email": "comms@company.com",
           "expiry_date": "2026-09-01",
-          "days_remaining": 155,
+          "days_remaining": 154,
           "status": "Valid",
           "renewal_owner": "Comms Dept",
           "notes": "Updated for TikTok guidelines"
@@ -321,7 +321,7 @@
           "owner": "HSE Manager",
           "owner_email": "hse@company.com",
           "expiry_date": "2026-11-30",
-          "days_remaining": 245,
+          "days_remaining": 244,
           "status": "Valid",
           "renewal_owner": "HSE Dept",
           "notes": "Aligned to Saudi Green Initiative"
@@ -345,7 +345,7 @@
           "owner": "Quality Manager",
           "owner_email": "quality@company.com",
           "expiry_date": "2026-06-30",
-          "days_remaining": 92,
+          "days_remaining": 91,
           "status": "Valid",
           "renewal_owner": "Quality Dept",
           "notes": "ISO 9001 aligned v4.2"
@@ -357,7 +357,7 @@
           "owner": "Risk Manager",
           "owner_email": "risk@company.com",
           "expiry_date": "2026-03-20",
-          "days_remaining": -10,
+          "days_remaining": -11,
           "status": "Expired",
           "renewal_owner": "Risk Dept",
           "notes": "Quarterly review overdue"
@@ -369,7 +369,7 @@
           "owner": "CEO Office",
           "owner_email": "ceo@company.com",
           "expiry_date": "2026-12-31",
-          "days_remaining": 276,
+          "days_remaining": 275,
           "status": "Valid",
           "renewal_owner": "CEO Office",
           "notes": "All staff signed off Feb 2026"
@@ -392,7 +392,7 @@
           "owner": "HSE Officer",
           "owner_email": "hse@company.com",
           "expiry_date": "2026-08-01",
-          "days_remaining": 124,
+          "days_remaining": 123,
           "status": "Valid",
           "renewal_owner": "HSE Lead",
           "notes": "45"
@@ -404,7 +404,7 @@
           "owner": "HSE Officer",
           "owner_email": "hse@company.com",
           "expiry_date": "2026-08-01",
-          "days_remaining": 124,
+          "days_remaining": 123,
           "status": "Valid",
           "renewal_owner": "HSE Lead",
           "notes": "12"
@@ -416,7 +416,7 @@
           "owner": "HSE Officer",
           "owner_email": "hse@company.com",
           "expiry_date": "2026-05-01",
-          "days_remaining": 32,
+          "days_remaining": 31,
           "status": "Valid",
           "renewal_owner": "HSE Lead",
           "notes": "32"
@@ -428,7 +428,7 @@
           "owner": "HSE Officer",
           "owner_email": "hse@company.com",
           "expiry_date": "2026-03-20",
-          "days_remaining": -10,
+          "days_remaining": -11,
           "status": "Expired",
           "renewal_owner": "HSE Lead",
           "notes": "50"
@@ -440,7 +440,7 @@
           "owner": "IT Manager",
           "owner_email": "it@company.com",
           "expiry_date": "2026-10-15",
-          "days_remaining": 199,
+          "days_remaining": 198,
           "status": "Valid",
           "renewal_owner": "IT Department",
           "notes": "38"
@@ -452,7 +452,7 @@
           "owner": "Legal Counsel",
           "owner_email": "legal@company.com",
           "expiry_date": "2026-07-01",
-          "days_remaining": 93,
+          "days_remaining": 92,
           "status": "Valid",
           "renewal_owner": "Legal Dept",
           "notes": "22"
@@ -464,7 +464,7 @@
           "owner": "HR Director",
           "owner_email": "hr@company.com",
           "expiry_date": "2026-09-30",
-          "days_remaining": 184,
+          "days_remaining": 183,
           "status": "Valid",
           "renewal_owner": "HR Department",
           "notes": "15"
@@ -476,7 +476,7 @@
           "owner": "HR Director",
           "owner_email": "hr@company.com",
           "expiry_date": "2026-04-14",
-          "days_remaining": 15,
+          "days_remaining": 14,
           "status": "Expiring",
           "renewal_owner": "HR Department",
           "notes": "80"
@@ -488,7 +488,7 @@
           "owner": "PMO Head",
           "owner_email": "pmo@company.com",
           "expiry_date": "2026-11-30",
-          "days_remaining": 245,
+          "days_remaining": 244,
           "status": "Valid",
           "renewal_owner": "PMO",
           "notes": "18"
@@ -500,7 +500,7 @@
           "owner": "IT Manager",
           "owner_email": "it@company.com",
           "expiry_date": "2026-06-30",
-          "days_remaining": 92,
+          "days_remaining": 91,
           "status": "Valid",
           "renewal_owner": "IT Department",
           "notes": "75"
@@ -512,7 +512,7 @@
           "owner": "Procurement Head",
           "owner_email": "proc@company.com",
           "expiry_date": "2026-08-15",
-          "days_remaining": 138,
+          "days_remaining": 137,
           "status": "Valid",
           "renewal_owner": "Procurement",
           "notes": "20"
@@ -536,7 +536,7 @@
           "owner": "HSE Officer",
           "owner_email": "hse@company.com",
           "expiry_date": "2026-12-31",
-          "days_remaining": 276,
+          "days_remaining": 275,
           "status": "Valid",
           "renewal_owner": "HSE Lead",
           "notes": "50"
@@ -548,7 +548,7 @@
           "owner": "HR Director",
           "owner_email": "hr@company.com",
           "expiry_date": "2026-05-31",
-          "days_remaining": 62,
+          "days_remaining": 61,
           "status": "Valid",
           "renewal_owner": "HR Department",
           "notes": "25"
